@@ -3,7 +3,7 @@ slug: "learnedthisweek-3"
 title: "What I learned new this week (week 3)"
 description: "Everyday we learn something new but sometimes we forgot that because did not note that down. Specially I do, so I started to write down a small brief about everything I learned. And decided to share that with everyone on weekly basis so that others might learn something new."
 pubDate: "Jul 21 2024"
-heroImage: "/whatilearned3.png"
+heroImage: "/blog/whatilearned3.png"
 ---
 
 Before beginning with it I should clearify first why am I writing this.

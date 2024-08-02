@@ -3,7 +3,7 @@ slug: "chargeupjswithbatteryapi"
 title: "Charge Up JavaScript with Battery API"
 description: "A small documentation about the JavaScript Battery api of the browser."
 pubDate: "Mar 28 2024"
-heroImage: "/blog-placeholder-4.jpg"
+heroImage: "/blog/blog-placeholder-4.jpg"
 ---
 
 ## Introduction

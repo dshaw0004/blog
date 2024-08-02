@@ -3,7 +3,7 @@ slug: "introductiontoidx"
 title: "Introduction of Project IDX"
 description: "An experimental IDE aimed to bring entire full-stack, multiplatform app development workflow to the cloud by Google."
 pubDate: "Mar 19 2024"
-heroImage: "/IDX background.png"
+heroImage: "/blog/IDX background.png"
 ---
 
 **Project IDX** is an experimental IDE aimed to bring entire full-stack, multiplatform app development workflow to the cloud. The **Project IDX** is built by **Google**. Currently this IDE is not openly available for all. For now only few of developers are have access to it because they have joined the wait list earlier. Luckily I am one of them. It has been quite a while I got the access to it but I have tried it till last week.

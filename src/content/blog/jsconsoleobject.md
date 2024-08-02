@@ -2,7 +2,7 @@
 title: "Javascript Console Objects"
 description: "JS is not only bounded to console.log. Explore other console objects."
 pubDate: "Feb 7 2023"
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "/blog/blog-placeholder-5.jpg"
 ---
 
 Here is a list of 5 console objects other than console.log that can make your debugging less frustrating and make your console beautiful.
