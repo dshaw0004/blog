@@ -1,6 +1,6 @@
 ---
 slug: "learnedthisweek-6"
-title: "What I learned new this week (week 5)"
+title: "What I learned new this week (week 6)"
 description: "Everyday we learn something new but sometimes we forgot that because did not note that down. Specially I do, so I started to write down a small brief about everything I learned. And decided to share that with everyone on weekly basis so that others might learn something new."
 pubDate: "Aug 11 2024"
 heroImage: "/blog/whatilearned2.png"
